@@ -11,6 +11,18 @@
 		5C3B309D2AE010E60032F3D1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B309C2AE010E60032F3D1 /* ContentView.swift */; };
 		5C3B309F2AE010E70032F3D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C3B309E2AE010E70032F3D1 /* Assets.xcassets */; };
 		5C3B30A22AE010E70032F3D1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C3B30A12AE010E70032F3D1 /* Preview Assets.xcassets */; };
+		5C3B30AA2AE0117C0032F3D1 /* FortuneWheel in Frameworks */ = {isa = PBXBuildFile; productRef = 5C3B30A92AE0117C0032F3D1 /* FortuneWheel */; };
+		5C3B30AC2AE013130032F3D1 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B30AB2AE013130032F3D1 /* SplashScreen.swift */; };
+		5C3B30AE2AE013200032F3D1 /* ChoosePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B30AD2AE013200032F3D1 /* ChoosePage.swift */; };
+		5C3B30B02AE0132F0032F3D1 /* ShowingSplash.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B30AF2AE0132F0032F3D1 /* ShowingSplash.swift */; };
+		5C3B30B22AE013410032F3D1 /* WelcomePopUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B30B12AE013410032F3D1 /* WelcomePopUp.swift */; };
+		5C3B30B42AE013530032F3D1 /* Cuisines.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B30B32AE013530032F3D1 /* Cuisines.swift */; };
+		5C3B30B62AE013770032F3D1 /* Asian.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B30B52AE013770032F3D1 /* Asian.swift */; };
+		5C3B30B82AE013810032F3D1 /* American.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B30B72AE013810032F3D1 /* American.swift */; };
+		5C3B30BA2AE0138E0032F3D1 /* Mexican.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B30B92AE0138E0032F3D1 /* Mexican.swift */; };
+		5C3B30BC2AE013970032F3D1 /* Italian.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B30BB2AE013970032F3D1 /* Italian.swift */; };
+		5C3B30BE2AE013A00032F3D1 /* Indian.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B30BD2AE013A00032F3D1 /* Indian.swift */; };
+		5C3B30C02AE013AF0032F3D1 /* Khaleeji.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B30BF2AE013AF0032F3D1 /* Khaleeji.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,17 @@
 		5C3B309C2AE010E60032F3D1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5C3B309E2AE010E70032F3D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C3B30A12AE010E70032F3D1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5C3B30AB2AE013130032F3D1 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		5C3B30AD2AE013200032F3D1 /* ChoosePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChoosePage.swift; sourceTree = "<group>"; };
+		5C3B30AF2AE0132F0032F3D1 /* ShowingSplash.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowingSplash.swift; sourceTree = "<group>"; };
+		5C3B30B12AE013410032F3D1 /* WelcomePopUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomePopUp.swift; sourceTree = "<group>"; };
+		5C3B30B32AE013530032F3D1 /* Cuisines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cuisines.swift; sourceTree = "<group>"; };
+		5C3B30B52AE013770032F3D1 /* Asian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Asian.swift; sourceTree = "<group>"; };
+		5C3B30B72AE013810032F3D1 /* American.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = American.swift; sourceTree = "<group>"; };
+		5C3B30B92AE0138E0032F3D1 /* Mexican.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mexican.swift; sourceTree = "<group>"; };
+		5C3B30BB2AE013970032F3D1 /* Italian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Italian.swift; sourceTree = "<group>"; };
+		5C3B30BD2AE013A00032F3D1 /* Indian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Indian.swift; sourceTree = "<group>"; };
+		5C3B30BF2AE013AF0032F3D1 /* Khaleeji.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Khaleeji.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +49,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C3B30AA2AE0117C0032F3D1 /* FortuneWheel in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -52,7 +76,18 @@
 			isa = PBXGroup;
 			children = (
 				5C3B309A2AE010E60032F3D1 /* TheFinalCraveAppApp.swift */,
+				5C3B30AF2AE0132F0032F3D1 /* ShowingSplash.swift */,
 				5C3B309C2AE010E60032F3D1 /* ContentView.swift */,
+				5C3B30AB2AE013130032F3D1 /* SplashScreen.swift */,
+				5C3B30AD2AE013200032F3D1 /* ChoosePage.swift */,
+				5C3B30B12AE013410032F3D1 /* WelcomePopUp.swift */,
+				5C3B30B32AE013530032F3D1 /* Cuisines.swift */,
+				5C3B30B52AE013770032F3D1 /* Asian.swift */,
+				5C3B30B72AE013810032F3D1 /* American.swift */,
+				5C3B30B92AE0138E0032F3D1 /* Mexican.swift */,
+				5C3B30BB2AE013970032F3D1 /* Italian.swift */,
+				5C3B30BD2AE013A00032F3D1 /* Indian.swift */,
+				5C3B30BF2AE013AF0032F3D1 /* Khaleeji.swift */,
 				5C3B309E2AE010E70032F3D1 /* Assets.xcassets */,
 				5C3B30A02AE010E70032F3D1 /* Preview Content */,
 			);
@@ -83,6 +118,9 @@
 			dependencies = (
 			);
 			name = TheFinalCraveApp;
+			packageProductDependencies = (
+				5C3B30A92AE0117C0032F3D1 /* FortuneWheel */,
+			);
 			productName = TheFinalCraveApp;
 			productReference = 5C3B30972AE010E60032F3D1 /* TheFinalCraveApp.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +149,9 @@
 				Base,
 			);
 			mainGroup = 5C3B308E2AE010E60032F3D1;
+			packageReferences = (
+				5C3B30A82AE0117C0032F3D1 /* XCRemoteSwiftPackageReference "FortuneWheel" */,
+			);
 			productRefGroup = 5C3B30982AE010E60032F3D1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -137,8 +178,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C3B30BC2AE013970032F3D1 /* Italian.swift in Sources */,
+				5C3B30AC2AE013130032F3D1 /* SplashScreen.swift in Sources */,
+				5C3B30BE2AE013A00032F3D1 /* Indian.swift in Sources */,
+				5C3B30B42AE013530032F3D1 /* Cuisines.swift in Sources */,
+				5C3B30B82AE013810032F3D1 /* American.swift in Sources */,
+				5C3B30B62AE013770032F3D1 /* Asian.swift in Sources */,
+				5C3B30B22AE013410032F3D1 /* WelcomePopUp.swift in Sources */,
+				5C3B30BA2AE0138E0032F3D1 /* Mexican.swift in Sources */,
+				5C3B30C02AE013AF0032F3D1 /* Khaleeji.swift in Sources */,
+				5C3B30AE2AE013200032F3D1 /* ChoosePage.swift in Sources */,
 				5C3B309D2AE010E60032F3D1 /* ContentView.swift in Sources */,
 				5C3B309B2AE010E60032F3D1 /* TheFinalCraveAppApp.swift in Sources */,
+				5C3B30B02AE0132F0032F3D1 /* ShowingSplash.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,6 +394,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		5C3B30A82AE0117C0032F3D1 /* XCRemoteSwiftPackageReference "FortuneWheel" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/sameersyd/FortuneWheel.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.1.5;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		5C3B30A92AE0117C0032F3D1 /* FortuneWheel */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5C3B30A82AE0117C0032F3D1 /* XCRemoteSwiftPackageReference "FortuneWheel" */;
+			productName = FortuneWheel;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 5C3B308F2AE010E60032F3D1 /* Project object */;
 }
